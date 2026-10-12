@@ -169,4 +169,4 @@ validated before being used for business decisions.
 
 ## Author
 
-**Pesarakayala Ashwith Reddy**\
+**Pesarakayala Ashwith Reddy**
